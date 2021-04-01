@@ -1,2 +1,2 @@
-# Classifying and Predicing Salaries
+# Classifying and Predicting Salaries
 Exercise answers can be found in Jupyter Notebooks.
